@@ -7,4 +7,6 @@ init:
 	scripts/init.sh
 test:
 	scripts/test.sh
+run:
+	scripts/run.sh
 

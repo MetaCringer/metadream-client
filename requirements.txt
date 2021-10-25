@@ -1,2 +1,1 @@
-PyOpenGL 
-PyOpenGL_accelerate
+ursina
